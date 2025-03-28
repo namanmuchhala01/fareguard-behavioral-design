@@ -55,10 +55,3 @@ The "FareGuard" system comprises the following key components:
 * [Detailed Project Report](https://drive.google.com/file/d/1hnPHsIS47svpvxEY98swdxmM0uoXsQSG/view?usp=drive_link)
 * [Presentation Slides](https://drive.google.com/file/d/16QGdni8DU5VMgF5iW-brKQaTL30RC23W/view?usp=drive_link)
 
-## Author
-
-* Behavioral Design Lead | Case Study Competition, Università di Pavia
-
-## License
-
-* \[Add License Information Here - e.g., MIT License]
